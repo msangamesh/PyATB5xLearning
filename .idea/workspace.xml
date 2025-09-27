@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae2954b1-5c0e-4fdf-bf84-698c9b443d86" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_Basics/Lab010_Python_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_Basics/Lab011_Python_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_Basics/Lab012_Python_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_Basics/Lab013_Python_litrals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_Basics/Lab014_Python_escapeseq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_Basics/Lab015_Python_escapeseq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_BasicsB/Lab018_Python_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_BasicsB/Lab019_Python_operatorsP2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_BasicsB/Lab020_Python_operatorsP3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_tasks/Lab016_Python_Tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_tasks/Lab017_Python_tasks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +66,14 @@
     "Python.Lab010_Python_Strings.executor": "Run",
     "Python.Lab011_Python_Strings.executor": "Run",
     "Python.Lab012_Python_strings.executor": "Run",
+    "Python.Lab014_Python_escapeseq.executor": "Run",
+    "Python.Lab015_Python_escapeseq.executor": "Run",
+    "Python.Lab016_Python_Tasks.executor": "Run",
+    "Python.Lab018_Python_operators.executor": "Run",
+    "Python.Lab019_Python_operatorsP2.executor": "Run",
+    "Python.Lab020_Python_operatorsP3.executor": "Run",
     "Python.Lab_005_Python_Basics.executor": "Run",
+    "Python.Labo13_Python_litrals.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -106,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758976366560</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add">
+      <option name="closed" value="true" />
+      <created>1758977921384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758977921384</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
