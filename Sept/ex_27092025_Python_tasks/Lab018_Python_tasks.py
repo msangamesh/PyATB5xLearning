@@ -11,5 +11,5 @@ radius = float(input("enter radius:\n"))
 import math
 
 area = math.pi * math.pow(radius, 2)
-print(f"Area of the circle is: {area:.4f}
+print(f"Area of the circle is: {area:.4f}")
 

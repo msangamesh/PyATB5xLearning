@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae2954b1-5c0e-4fdf-bf84-698c9b443d86" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_BasicsB/Lab021_Python_operatorsP4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_BasicsB/Lab022_Python_operatorsP5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_tasks/Lab018_Python_tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_conditions/Lab023_Python_conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_conditions/Lab024_Python_gradecalculate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_conditions/Lab025_Python_conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_conditions/Lab026_Python_tasks_conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_tasks/Lab019_Python_Tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_tasks/Lab020_Python_tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_tasks/Lab021_Python_tasks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sept/ex_27092025_Python_tasks/Lab017_Python_tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_tasks/Lab017_Python_tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sept/ex_27092025_Python_tasks/Lab018_Python_tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_tasks/Lab018_Python_tasks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +42,9 @@
     &quot;accountId&quot;: &quot;501293e5-95e6-440a-947d-e6462d19db67&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Sept/ex_27092025_Python_conditions/Lab025_Python_conditions.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -68,10 +75,17 @@
     "Python.Lab017_Python_tasks.executor": "Run",
     "Python.Lab018_Python_operators.executor": "Run",
     "Python.Lab018_Python_tasks.executor": "Run",
+    "Python.Lab019_Python_Tasks.executor": "Run",
     "Python.Lab019_Python_operatorsP2.executor": "Run",
     "Python.Lab020_Python_operatorsP3.executor": "Run",
+    "Python.Lab020_Python_tasks.executor": "Run",
     "Python.Lab021_Python_operatorsP4.executor": "Run",
+    "Python.Lab021_Python_tasks.executor": "Run",
     "Python.Lab022_Python_operatorsP5.executor": "Run",
+    "Python.Lab023_Python_conditions.executor": "Run",
+    "Python.Lab024_Python_gradecalculate.executor": "Run",
+    "Python.Lab025_Python_conditions.executor": "Run",
+    "Python.Lab026_Python_tasks_conditions.executor": "Run",
     "Python.Lab_005_Python_Basics.executor": "Run",
     "Python.Labo13_Python_litrals.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -134,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758984729855</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add">
+      <option name="closed" value="true" />
+      <created>1758988555343</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1758988555343</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
