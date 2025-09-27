@@ -2,8 +2,7 @@ i = 0
 while i < 10 :
     if i == 8  :
         continue
-    else :
-     print(i, end=" ")
+    print(i)
     i += 1
 
 i = 0
