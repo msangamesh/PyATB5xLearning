@@ -11,4 +11,6 @@ minresult = min(a, b, c)
 
 print (minresult)
 
+print(type(minresult))
+
 print(mxresult+minresult)
