@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae2954b1-5c0e-4fdf-bf84-698c9b443d86" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_conditions/Lab023_Python_conditions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_conditions/Lab024_Python_gradecalculate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_conditions/Lab025_Python_conditions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_conditions/Lab026_Python_tasks_conditions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_tasks/Lab019_Python_Tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_tasks/Lab020_Python_tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_tasks/Lab021_Python_tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_loops/Lab027_Python_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_loops/Lab028_Python_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_loops/Lab029_Python_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_loops/Lab030_Python_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_loops/Lab031_Python_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_loops/Lab032_Python_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_loops/Lab033_Python_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_loops/Lab034_Python_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_loops/Lab035_Python_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_loops/Lab036_Python_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_loops/Lab037_Python_loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sept/ex_27092025_Python_tasks/Lab018_Python_tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_tasks/Lab018_Python_tasks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +89,16 @@
     "Python.Lab024_Python_gradecalculate.executor": "Run",
     "Python.Lab025_Python_conditions.executor": "Run",
     "Python.Lab026_Python_tasks_conditions.executor": "Run",
+    "Python.Lab027_Python_loops.executor": "Run",
+    "Python.Lab028_Python_loops.executor": "Run",
+    "Python.Lab029_Python_loops.executor": "Run",
+    "Python.Lab030_Python_loops.executor": "Run",
+    "Python.Lab031_Python_loops.executor": "Run",
+    "Python.Lab032_Python_loops.executor": "Run",
+    "Python.Lab033_Python_loops.executor": "Run",
+    "Python.Lab034_Python_loops.executor": "Run",
+    "Python.Lab035_Python_loops.executor": "Run",
+    "Python.Lab036_Python_loops.executor": "Run",
     "Python.Lab_005_Python_Basics.executor": "Run",
     "Python.Labo13_Python_litrals.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -156,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758988555343</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add">
+      <option name="closed" value="true" />
+      <created>1758994179734</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1758994179734</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
