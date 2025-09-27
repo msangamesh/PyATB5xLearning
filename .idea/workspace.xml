@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae2954b1-5c0e-4fdf-bf84-698c9b443d86" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_Basics/Lab005_Python_Basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_Basics/Lab006_Python_Basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_Basics/Lab008_Python_userinput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_Basics/Lab009_Python_inputsomeof2numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sept/ex_27092025_Python_Basics/Lab004_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_Basics/Lab004_Python_Basics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,9 @@
     "Python.Lab002_Python_Basics.executor": "Run",
     "Python.Lab003_Python_Basics.executor": "Run",
     "Python.Lab004_Python_Basics.executor": "Run",
+    "Python.Lab006_Python_Basics.executor": "Run",
+    "Python.Lab008_Python_userinput.executor": "Run",
+    "Python.Lab009_Python_inputsomeof2numbers.executor": "Run",
     "Python.Lab_005_Python_Basics.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -84,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758970908858</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add">
+      <option name="closed" value="true" />
+      <created>1758973068205</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758973068205</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
