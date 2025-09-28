@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae2954b1-5c0e-4fdf-bf84-698c9b443d86" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/Sept/ex_28092025_Python_Functions/Lab040_Python_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_28092025_Python_Functions/Lab041_Python_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_28092025_Python_Functions/Lab042_Python_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_28092025_Python_Functions/Lab043_Python_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_28092025_Python_Functions/Lab044_Python_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_28092025_Python_Functions/Lab045_Python_Fyunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_28092025_Python_Functions/Lab046_Python_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_28092025_Python_Functions2/Lab047_Python_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_28092025_Python_Functions2/Lab048_Python_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_28092025_Python_Functions2/Lab049_Python_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_28092025_Python_Functions2/Lab050_Python_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_28092025_Python_Functions2/Lab051_Python_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +103,10 @@
     "Python.Lab044_Python_functions.executor": "Run",
     "Python.Lab045_Python_Fyunctions.executor": "Run",
     "Python.Lab046_Python_Functions.executor": "Run",
+    "Python.Lab047_Python_functions.executor": "Run",
+    "Python.Lab048_Python_functions.executor": "Run",
+    "Python.Lab049_Python_Functions.executor": "Run",
+    "Python.Lab050_Python_functions.executor": "Run",
     "Python.Lab_005_Python_Basics.executor": "Run",
     "Python.Labo13_Python_litrals.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -199,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759002566526</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add">
+      <option name="closed" value="true" />
+      <created>1759036635339</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1759036635339</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
