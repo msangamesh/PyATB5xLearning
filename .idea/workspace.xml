@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae2954b1-5c0e-4fdf-bf84-698c9b443d86" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_conditions/Lab026_Python_tringle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_28092025_Python_Functions2/Lab052_Python_decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_28092025_Python_Functions2/Lab053_Python_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_28092025_Python_Functions2/Lab054_Python_for_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sept/ex_28092025_Python_Functions2/Lab055_Python_triangle_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_30092025_Python_Lambda/Lab056_Python_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_30092025_Python_Lambda/Lab057_Python_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sept/ex_30092025_Python_Lambda/Lab058_Python_lambda.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sept/ex_27092025_Python_conditions/Lab025_Python_conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_conditions/Lab025_Python_conditions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sept/ex_27092025_Python_conditions/Lab026_Python_tasks_conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sept/ex_27092025_Python_conditions/Lab026_Python_tasks_conditions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +111,9 @@
     "Python.Lab053_Python_functions.executor": "Run",
     "Python.Lab054_Python_for_loop.executor": "Run",
     "Python.Lab055_Python_triangle_task.executor": "Run",
+    "Python.Lab056_Python_lambda.executor": "Run",
+    "Python.Lab057_Python_lambda.executor": "Run",
+    "Python.Lab058_Python_lambda.executor": "Run",
     "Python.Lab_005_Python_Basics.executor": "Run",
     "Python.Labo13_Python_litrals.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -254,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759043265649</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add">
+      <option name="closed" value="true" />
+      <created>1759055590985</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1759055590985</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
