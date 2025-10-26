@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae2954b1-5c0e-4fdf-bf84-698c9b443d86" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/October/PythonBasics/Lab001_Hello_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/PythonBasics/Lab002_Python_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/Python_keywords/Lab003_python_keyword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/Python_keywords/Lab004_Dynamic_var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/Python_keywords/Lab005_Python_maths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/Python_keywords/Lab006_ml_var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/Python_keywords/Lab007_python_concat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/ex004_loops_conditions/Lab018_maxof3numbrs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/ex004_loops_conditions/Lab019_gradeclaclte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab008_lterals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab008_sumoftwo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab009_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab010_datatype_conv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab011_escape_seq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab012_task_mod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab013_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab014_logical_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab015_membership_opertr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab016_ternary_oprtr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/tasks/Lab017_areaofcircle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/tasks/task02_areaoftringle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/tasks/task03_findtthenumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/tasks/task04_odd_even.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,19 +78,33 @@
     "Python.Lab005_Python_maths.executor": "Run",
     "Python.Lab006_Python_Basics.executor": "Run",
     "Python.Lab006_ml_var.executor": "Run",
+    "Python.Lab007_python_concat.executor": "Run",
     "Python.Lab008_Python_userinput.executor": "Run",
+    "Python.Lab008_lterals.executor": "Run",
+    "Python.Lab008_sumoftwo.executor": "Run",
     "Python.Lab009_Python_inputsomeof2numbers.executor": "Run",
+    "Python.Lab009_strings.executor": "Run",
     "Python.Lab010_Python_Strings.executor": "Run",
+    "Python.Lab010_datatype_conv.executor": "Run",
     "Python.Lab011_Python_Strings.executor": "Run",
+    "Python.Lab011_escape_seq.executor": "Run",
     "Python.Lab012_Python_strings.executor": "Run",
+    "Python.Lab012_task_mod.executor": "Run",
+    "Python.Lab013_operators.executor": "Run",
     "Python.Lab014_Python_escapeseq.executor": "Run",
+    "Python.Lab014_logical_operator.executor": "Run",
     "Python.Lab015_Python_escapeseq.executor": "Run",
+    "Python.Lab015_membership_opertr.executor": "Run",
     "Python.Lab016_Python_Tasks.executor": "Run",
+    "Python.Lab016_ternary_oprtr.executor": "Run",
     "Python.Lab017_Python_tasks.executor": "Run",
+    "Python.Lab017_areaofcircle.executor": "Run",
     "Python.Lab018_Python_operators.executor": "Run",
     "Python.Lab018_Python_tasks.executor": "Run",
+    "Python.Lab018_maxof3numbrs.executor": "Run",
     "Python.Lab019_Python_Tasks.executor": "Run",
     "Python.Lab019_Python_operatorsP2.executor": "Run",
+    "Python.Lab019_gradeclaclte.executor": "Run",
     "Python.Lab020_Python_operatorsP3.executor": "Run",
     "Python.Lab020_Python_tasks.executor": "Run",
     "Python.Lab021_Python_operatorsP4.executor": "Run",
@@ -128,6 +151,9 @@
     "Python.Lab060_Python_List.executor": "Run",
     "Python.Lab_005_Python_Basics.executor": "Run",
     "Python.Labo13_Python_litrals.executor": "Run",
+    "Python.task02_areaoftringle.executor": "Run",
+    "Python.task03_findtthenumber.executor": "Run",
+    "Python.task04_odd_even.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -415,7 +441,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761190335594</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add">
+      <option name="closed" value="true" />
+      <created>1761418630809</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1761418630809</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
