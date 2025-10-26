@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae2954b1-5c0e-4fdf-bf84-698c9b443d86" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/October/ex004_loops_conditions/Lab018_maxof3numbrs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/ex004_loops_conditions/Lab019_gradeclaclte.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab008_lterals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab008_sumoftwo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab009_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab010_datatype_conv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab011_escape_seq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab012_task_mod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab013_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab014_logical_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab015_membership_opertr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/ex_003_Literal_variables/Lab016_ternary_oprtr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/tasks/Lab017_areaofcircle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/tasks/task02_areaoftringle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/tasks/task03_findtthenumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/tasks/task04_odd_even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/tasks/task05_APIresponse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/tasks/task06_dashbord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/tasks/task07_logintest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/tasks/task08_factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/October/tasks/task09_delay.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,6 +143,10 @@
     "Python.task02_areaoftringle.executor": "Run",
     "Python.task03_findtthenumber.executor": "Run",
     "Python.task04_odd_even.executor": "Run",
+    "Python.task05_APIresponse.executor": "Run",
+    "Python.task06_dashbord.executor": "Run",
+    "Python.task07_logintest.executor": "Run",
+    "Python.task08_factorial.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -449,7 +442,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761418630809</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add">
+      <option name="closed" value="true" />
+      <created>1761481189548</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1761481189548</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
