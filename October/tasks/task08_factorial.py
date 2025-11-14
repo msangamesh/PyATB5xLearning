@@ -3,7 +3,10 @@
 num = int(input("Enter a number: "))
 
 i = num
-while i > 0:
+if num <= 0:
+    print("The factorial of number is", 1)
+else:
+ while i > 0:
 
     i = i - 1
     fact_res = num * i
